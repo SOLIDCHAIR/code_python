@@ -11,7 +11,6 @@ def pattern_creator(number):
     return (result)
 
 userin = int(input("Enter your number:"))
-
 output = pattern_creator(userin)
 print(output)
     

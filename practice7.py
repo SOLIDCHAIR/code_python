@@ -7,7 +7,6 @@ def string_compare(word1, word2):
             output_list.append(character)
     return (output_list)
 
-
 userin1 = (input("Enter your word:"))
 userin2 = (input("Enter your second word:"))
 output = string_compare(userin1, userin2)
